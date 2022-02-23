@@ -1,5 +1,7 @@
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
+This is a fork of https://github.com/wowchemy/starter-hugo-academic.
+
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
 
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
@@ -20,7 +22,7 @@ The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS make
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
 - 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
 - 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli) 
+- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
 - 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
 - ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
 
