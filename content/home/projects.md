@@ -53,4 +53,4 @@ design:
   flip_alt_rows: false
 ---
 
-I work on various clinical applications (e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors) with many clinicians, and thus also various technical solutions. Hence, there are usually too many projects to describe here: feel free to contact me for more information if you are interested in an internship / thesis on radiomics, deep learning, and/or automated machine learning!
+I work on various clinical applications with many clinicians, and thus also various technical solutions. Hence, there are usually too many projects to describe here: feel free to contact me for more information if you are interested in an internship / thesis on radiomics, deep learning, and/or automated machine learning!

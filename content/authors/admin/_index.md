@@ -20,10 +20,9 @@ bio: My research interests include radiomics, deep learning and AutoML.
 interests:
 - Radiomics
 - AutoML
+- Meta-Learning
 - Deep Learning
 - Medical Image Processing
-- Soft Tissue Tumors
-- Liver Cancer
 
 # Education to show in About widget
 education:
@@ -77,18 +76,21 @@ highlight_name: true
 ---
 
 Martijn Starmans is a postdoctoral researcher at the Biomedical Imaging Group
-of the Erasmus MC (Rotterdam, the Netherlands). His main topic is on radiomics and
+of the Erasmus MC (Rotterdam, the Netherlands). His main research interest is the use of radiomics and
 deep learning to improve the diagnostic work-up in oncology. To this end, he
-focusses on the use of automated machine learning and meta-learning to generalize
-methods and works on a variety of clinical applications. He successfully
-co-applied for a grant from the Hanarth foundation
+focusses on exploiting automated machine learning and meta-learning to generalize
+methods across applications. To evaluate this generalization, he works on a variety of clinical applications
+(e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors)
+with various clinicians.
+
+He successfully co-applied for a grant from the Hanarth foundation
 on [*AI for the grading and phenotyping of soft-tissue tumors*](https://www.hanarthfonds.nl/en/stefan-klein),
 is part of the [EuCanImage consortium](https://eucanimage.eu/), and is
 currently co-supervising two PhD students. As supporter of open science,
 he has released the software for all his studies open source (e.g.
-[WORC](https://github.com/MStarmans91/WORC)
+[WORC](https://github.com/MStarmans91/WORC))
 and released a large [public database](https://doi.org/10.1101/2021.08.19.21262238)
-of 930 patients. As a result, he was one of the winners of the [Convergence Open Research
+of 930 patients. As recognition, he was one of the winners of the [Convergence Open Research
 Awards 2021](https://www.riotsciencenl.com/award-winners).
 
 **PhD Degree**

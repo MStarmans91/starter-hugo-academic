@@ -9,7 +9,6 @@ else
   git push
 
   hugo
-
   cd public
   git add .
   git commit -am "$1"

@@ -3,6 +3,7 @@
 - Images next to publications
 - Re-enable talks module, add conference presentations etc, thesis defense. Conference abstracts can be added with publication type 9 if I did not give the talk
 - Press: Hart van Rotterdam
+- Add CV
 
 How to add / remove a widget / page:
 - Add/comment a tab to config/_default/menus.yaml
