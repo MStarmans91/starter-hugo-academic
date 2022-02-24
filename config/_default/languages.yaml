@@ -20,3 +20,7 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+
+# # We add a publication type
+# - id: pub_conf_ab
+#   translation: Conference abstract

@@ -14,7 +14,7 @@ organizations:
   url: https://www.erasmusmc.nl/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include radiomics, machine learning and AutoML.
+bio: My research interests include radiomics, deep learning and AutoML.
 
 # Interests to show in About widget
 interests:
@@ -46,18 +46,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=rFhvAf8AAAAJ&hl=nl
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/MartijnStarmans
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/MStarmans91
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5086-7153
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/martijn-starmans-85901281/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -97,9 +100,17 @@ Following his passion to efficiently and automatically optimize routines, he
 developed an adaptive radiomics framework using automated machine learning,
 described in [this paper](https://arxiv.org/pdf/2108.08618.pdf). He collaborated
 with a large number of clinicians to develop radiomics biomarkers in a wide
-variety of clinical applications. He was also very active in education, including co-founding
-two courses in the MSc Technical
-Medicine study and (co-)supervising 28 students.
+variety of clinical applications.
+
+**Education**
+
+Martijn has co-founded two courses in the
+[MSc Technical Medicine](https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine),
+which is he still teaching along. He also teaches a course in the BSc
+Technical Medicine. His tasks include preparing and giving lectures, developing
+and supervising programming sessions, and examination. He majorly enjoys
+working together with students and has (co-)supervised 28 students in
+interships and thesis projects.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 

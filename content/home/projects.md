@@ -7,9 +7,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 50
 
-title: Projects
+title: Student Projects
 subtitle: ''
 
 content:
@@ -27,10 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Technical
+    tag: Technical
+  - name: Clinical
+    tag: Clinical
+  - name: Radiomics
+    tag: Radiomics
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: AutoML
+    tag: AutoML
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -46,3 +52,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+I work on various clinical applications (e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors) with many clinicians, and thus also various technical solutions. Hence, there are usually too many projects to describe here: feel free to contact me for more information if you are interested in an internship / thesis on radiomics, deep learning, and/or automated machine learning!
