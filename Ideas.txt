@@ -1,10 +1,7 @@
-- Banner Thesis Cover / application images
-- Overview of past students and titles on their projects. Use teams widget: https://wowchemy.com/docs/widget/people/
-- Images next to publications
 - Re-enable talks module, add conference presentations etc, thesis defense. Conference abstracts can be added with publication type 9 if I did not give the talk
 - Press: Hart van Rotterdam
-- Add CV
+- Create student projects for EuCanImage
 
-How to add / remove a widget / page:
-- Add/comment a tab to config/_default/menus.yaml
-- Add/remove a .md file to content/home or set active: false
+# Extra
+- Images next to publications
+- Banner Thesis Cover / application images

@@ -114,6 +114,6 @@ and supervising programming sessions, and examination. He majorly enjoys
 working together with students and has (co-)supervised 28 students in
 interships and thesis projects.
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
-
 {{< icon name="download" pack="fas" >}} Download my [PhD Thesis](https://repub.eur.nl/pub/137089/thesis-MPA-Starmans-embargo-version-61c5831509bd6.pdf).
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

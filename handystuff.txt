@@ -1,0 +1,9 @@
+# Locally launch a server: cmd, go to this folder, than
+hugo server
+
+# How to add / remove a widget / page:
+- Add/comment a tab to config/_default/menus.yaml
+- Add/remove a .md file to content/home or set active: false
+
+# How to publish changes and commit to git
+- Simply run update.sh [commit message] using git bash

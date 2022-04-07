@@ -48,6 +48,8 @@ experience:
           MSc Technical Medicine
         * Supervision of two PhD students
 
+        Supervisors: Stefan Klein, Jan-Jaap Visser, Wiro Niessen
+
   - title: PhD Candidate
     company: Erasmus Medical Center
     company_url: 'https://www.erasmusmc.nl/en/'
@@ -55,7 +57,10 @@ experience:
     location: Rotterdam, the Netherlands
     date_start: '2016-10-01'
     date_end: '2022-02-01'
-    description: See extended description in the "about" section on this website.
+    description: |2-
+      See extended description in the "about" section on this website.
+
+      Supervisors: Stefan Klein, Jan-Jaap Visser, Wiro Niessen
 
   - title: MSc Applied Physics
     company: Delft University of Technology
