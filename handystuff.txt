@@ -6,4 +6,9 @@ hugo server
 - Add/remove a .md file to content/home or set active: false
 
 # How to publish changes and commit to git
-- Simply run update.sh [commit message] using git bash
+- Simply run update.sh "[commit message]" using git bash
+
+# How to convert .bib files to Hugo .md files (zie ook https://github.com/wowchemy/hugo-academic-cli)
+- conda activate HugoConvert2
+- Place .bib file in main folder
+- academic import --bibtex my_publications.bib

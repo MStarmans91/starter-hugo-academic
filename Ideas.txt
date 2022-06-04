@@ -1,3 +1,8 @@
+# To Do
+- Future AI als klaar
+- Update with imaging program of excellence text
+
+# Ideas
 - Re-enable talks module, add conference presentations etc, thesis defense. Conference abstracts can be added with publication type 9 if I did not give the talk
 - Press: Hart van Rotterdam
 - Create student projects for EuCanImage
