@@ -12,3 +12,8 @@ hugo server
 - conda activate HugoConvert2
 - Place .bib file in main folder
 - academic import --bibtex my_publications.bib
+
+# Troubles due to versioning
+- Put the newest Hugo binary in C:\Hugo\bin
+- hugo mod get to update wowchemy
+- hugo mod clean --all to clean cache etc.

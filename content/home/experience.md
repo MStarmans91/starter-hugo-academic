@@ -22,19 +22,20 @@ date_format: 'Jan 2, 2006'
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Visiting Postdoctoral Researcher (Planned)
+  - title: Visiting Postdoctoral Researcher
     company: University of Barcelona, Artificial Intelligence in Medicine Lab
     company_url: 'https://www.bcn-aim.org/'
     company_logo: Universitat_de_Barcelona
     location: Barcelona, Spain
-    date_start: '2022-10-01'
-    date_end: '2023-01-01'
+    date_start: '2022-09-26'
+    date_end: '2023-01-15'
     description: |2-
       Martijn will visit the group of Prof. Dr. Karim Lekadir to collaborate on AI for
       oncology and cardiac imaging within the context of the EuCanImage and euCanSHare consortia.
-      Besides evaluating the use of (deep) radiomics in “new”
-      applications, they will primarily work on federated learning, the FUTURE-AI
-      guiding principles, and improving the clinical utility of (radiomics) AI tools.
+      While the main focus is on developing novel algorithms for (deep) radiomics, they will 
+      also work on federated learning, applying Martijn's adaptive radiomics framework from his PhD
+      to ``new'' clinical applications, a second version of the FUTURE-AI [guiding principles](https://future-ai.eu/),
+      and improving the clinical utility of (radiomics) AI tools.
 
       Supervisors: Karim Lekadir
 
