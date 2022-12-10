@@ -2,12 +2,13 @@
 - Future AI als klaar
 - Update with imaging program of excellence text
 - MSc Thesis Upload
-- Quantib blog
+- Workshop visits (e.g. XNAT, Health-RI)
 
 # Ideas
 - Re-enable talks module, add conference presentations etc, thesis defense. Conference abstracts can be added with publication type 9 if I did not give the talk
+    - Quantib blog
+    - EuCanImage webinar
 - Press: Hart van Rotterdam
-- Create student projects for EuCanImage
 
 
 # Extra

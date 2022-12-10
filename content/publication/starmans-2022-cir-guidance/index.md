@@ -34,7 +34,7 @@ tags:
 categories: []
 date: '2022-04-01'
 lastmod: 2022-06-03T20:21:53+02:00
-featured: true
+featured: false
 draft: false
 doi: 10.3390/jpm12050726
 
@@ -54,9 +54,6 @@ publication_types:
 
 ################################################################
 # For featured article
-# Publication name and optional abbreviated publication name.
-featured: true
-
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-04-31T13:11:32.777607Z'
 

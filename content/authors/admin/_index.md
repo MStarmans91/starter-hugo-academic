@@ -12,6 +12,8 @@ role: PostDoc Artificial Intelligence for Medical Image Processing
 organizations:
 - name: Erasmus Medical Center
   url: https://www.erasmusmc.nl/en/
+- name: University of Barcelona
+  url: https://www.bcn-aim.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include radiomics, deep learning and AutoML.
@@ -27,7 +29,7 @@ interests:
 - Oncology
 - Soft-tissue tumors / sarcoma
 - Liver cancer
-- Liver metastases
+- Colorectal liver metastases
 
 # Education to show in About widget
 education:
@@ -87,7 +89,7 @@ Awards 2021](https://www.riotsciencenl.com/award-winners).
 
 **International collaborations**
 
-Martijn is involved in various working groups and co-leader of the platform work package of the Horizon 2020 [EuCanImage consortium](https://eucanimage.eu/): *Towards a European cancer imaging platform for enhanced Artificial Intelligence in oncology*. In this context, he is currently visiting the [AI in Medicine group](https://www.bcn-aim.org/) of Prof. Dr. Karim Lekadir at the University of Barcelona. He is one of the initiators of the Sarcoma Artificial Intelligence (SAI) consortium ([grant awarded](https://www.hanarthfonds.nl/en/stefan-klein)) and the Liver Artificial Intelligence (LAI) consortium (grant submitted). In these consortia, in total 44 clinical centers, companies, professional- and patient associations from 17 countries are united. He is also part of the Convergence flagship *Radiation Therapy Centre 2030: Personalized Self-Steering Radiotherapy* (grant submitted), [EOSC4Cancer](https://eosc4cancer.eu/), and EUCAIM.
+Martijn is involved in various working groups and is leader of the platform work package of the Horizon 2020 [EuCanImage consortium](https://eucanimage.eu/): *Towards a European cancer imaging platform for enhanced Artificial Intelligence in oncology*. In this context, he is currently visiting the [AI in Medicine group](https://www.bcn-aim.org/) of Prof. Dr. Karim Lekadir at the University of Barcelona. He is one of the initiators of the Sarcoma Artificial Intelligence (SAI) consortium ([grant awarded](https://www.hanarthfonds.nl/en/stefan-klein)), the Liver AI (LAI) consortium (grant submitted), and project lead of the Colorectal Liver Metastes AI (COLIMA) consortium (grant submitted). In these consortia, in total 51 clinical centers, companies, professional- and patient associations from 18 countries are united. Additionally, he is external advisor of [RadioVal](https://radioval.eu/), member of the AI4HI AI Development working group, [EUCAIM](https://EUCAIM.eu/) project, and [EOSC4Cancer](https://EOSC4Cancer.eu/).
 
 **PhD Degree**
 
@@ -97,6 +99,6 @@ Martijn obtained his PhD degree *''cum laude''* on February 1 2022 with his thes
 
 **Educational activities**
 
-Martijn has co-founded two courses in the [MSc Technical Medicine](https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine), which is he still teaching along. He also teaches a course in the BSc Technical Medicine. His tasks include preparing and giving lectures, developing and supervising programming sessions, and examination. He majorly enjoys working together with students and has (co-)supervised 37 students in interships and thesis projects.
+Martijn has co-founded two courses in the [MSc Technical Medicine](https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine), which he is still teaching plus a course in the BSc Technical Medicine. His tasks include preparing and giving lectures, developing and supervising programming sessions, and examination. He majorly enjoys working together with students and has (co-)supervised 37 students in interships and thesis projects.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

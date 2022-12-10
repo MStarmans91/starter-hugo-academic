@@ -1,22 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Classification of Clinically Significant Prostate Cancer on Multi-Parametric MRI: A Validation Study Comparing Deep Learning and Radiomics'
+title: 'Radiomics of gastrointestinal stromal tumours, risk classification based on
+  computed tomography images: A pilot study'
 subtitle: ''
 summary: ''
 authors:
-- Jose M Castillo T
-- Muhammad Arif
+- M J M Timbergen
 - admin
-- Wiro J Niessen
-- Chris H Bangma
-- Ivo Schoots
-- Jifke F Veenland
+- M Vos
+- M Renckens
+- D J Grünhagen
+- G J L H van Leenders
+- W J Niessen
+- C Verhoef
+- S Sleijfer
+- S Klein
+- J J Visser
 tags:
-- paper
+- abstract
 categories: []
-date: -01-01
-lastmod: '2021-12-01'
+date: '2019-10-01'
+lastmod: 2022-12-10T14:56:23+01:00
 featured: false
 draft: false
 
@@ -34,13 +39,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-24T13:11:27.128526Z'
+publishDate: '2022-12-10T13:56:22.544270Z'
 publication_types:
-- '2'
+- '9'
 abstract: ''
-publication: '*Cancers*'
-doi: 10.3390/cancers14010012
+publication: '*Annals of Oncology*'
+doi: 10.1093/annonc/mdz283.040
 links:
 - name: URL
-  url: https://doi.org/10.3390/cancers14010012
+  url: https://doi.org/10.1093/annonc/mdz283.040
 ---

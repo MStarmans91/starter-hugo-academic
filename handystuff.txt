@@ -12,8 +12,18 @@ hugo server
 - conda activate HugoConvert2
 - Place .bib file in main folder
 - academic import --bibtex my_publications.bib
+- Yes, you can just put in the new file, the tool will only add new entries. However, it will redo all conferences, so move those to the conferences folder. And remove all software
 
 # Troubles due to versioning
 - Put the newest Hugo binary in C:\Hugo\bin
 - hugo mod get to update wowchemy
 - hugo mod clean --all to clean cache etc.
+
+# Publication types and change them
+https://wowchemy.com/docs/content/publications/
+
+To add, simply add what you want to i18n/en_edited.yaml and data/publication_types/toml
+
+I added
+9 = conference abstracts
+10 = software
