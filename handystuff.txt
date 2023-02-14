@@ -16,6 +16,7 @@ hugo server
 
 # Troubles due to versioning
 - Put the newest Hugo binary in C:\Hugo\bin
+- cmd and run the following commands:
 - hugo mod get to update wowchemy
 - hugo mod clean --all to clean cache etc.
 

@@ -16,7 +16,7 @@ interests:
 highlight_name: false
 
 # For sorting
-date: '2022-01-01'
+date: '2022-12-13'
 
-user_groups: ["Current Team Members"]
+user_groups: ["MSc Thesis"]
 ---
