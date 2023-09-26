@@ -19,13 +19,13 @@ main:
     weight: 50
   - name: Experience
     url: '#experience'
-    weight: 60
+    weight: 70
   - name: Current Team
     url: '#currentteammembers'
-    weight: 70
+    weight: 80
   - name: Former Team
     url: '#formerteammembers'
-    weight: 80
+    weight: 90
   # Skills is in between here
   - name: Contact
     url: '#contact'

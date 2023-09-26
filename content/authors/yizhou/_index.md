@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Samuel van Gurp
+title: Yizhou Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: MSc Biomedical Engineering, Delft University of Technology, Delft, NL (2022 - 2023)
+role: MSc Bioinformatics and System Biology, Vrije Universiteit (VU), Amsterdam, NL
 
 # Title of project here
 interests:
@@ -16,7 +16,7 @@ interests:
 highlight_name: false
 
 # For sorting
-date: '2022-11-14'
+date: '2023-09-01'
 
-user_groups: ["MSc Thesis"]
+user_groups: ["Current Team Members"]
 ---

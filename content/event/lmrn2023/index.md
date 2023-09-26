@@ -1,10 +1,10 @@
 ---
 title: Example Talk
 
-event: Wowchemy Conference
+event: Liver Metastasis Research Network (LMRN) Annual Meeting 2023
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Brussels
 address:
   street: 450 Serra Mall
   city: Stanford

@@ -6,11 +6,13 @@ title: Martijn P. A. Starmans
 superuser: true
 
 # Role/position/tagline
-role: PostDoc Artificial Intelligence for Medical Image Processing
+role: PostDoc Artificial Intelligence for Integrated Diagnostics focused on Medical Imaging in Oncology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Erasmus Medical Center
+- name: Erasmus Medical Center, Department of Radiology & Nuclear Medicine
+  url: http://bigr.nl/
+- name: Erasmus Medical Center, Department of Pathology
   url: https://www.erasmusmc.nl/en/
 - name: University of Barcelona
   url: https://www.bcn-aim.org/
@@ -21,11 +23,11 @@ bio: My research interests include radiomics, deep learning and AutoML.
 # Interests to show in About widget
 interests:
 - Radiomics
+- Pathomics
+- RadioPathomics
 - AutoML
 - Meta-Learning
-- Deep Learning
-- Medical Image Processing
-- Pathomics
+- Multimodal machine learning
 - Oncology
 - Soft-tissue tumors / sarcoma
 - Liver cancer
@@ -34,14 +36,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD ''Streamlined Quantitative Imaging Biomarker Development''
+  - course: PhD ''Streamlined Quantitative Imaging Biomarker Development'' ("cum laude")
     institution: Erasmus Medical Center, Rotterdam, the Netherlands
     year: 2022
   - course: MSc Applied Physics
-    institution: Delft University of Technology, Rotterdam, the Netherlands
+    institution: Delft University of Technology, Delft, the Netherlands
     year: 2016
   - course: BSc Applied Physics
-    institution: Delft University of Technology, Rotterdam, the Netherlands
+    institution: Delft University of Technology, Delft, the Netherlands
     year: 2013
 
 # Social/Academic Networking
@@ -82,22 +84,24 @@ email: ""
 highlight_name: true
 ---
 
-Martijn Starmans is a postdoctoral researcher at the Biomedical Imaging Group of the Erasmus MC (Rotterdam, the Netherlands). His main research interest is the use of radiomics and deep learning to improve the diagnostic work-up in oncology. To this end, he focusses on exploiting automated machine learning and meta-learning to generalize methods across applications. To evaluate this generalization, he works on a variety of clinical applications (e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors) with various clinicians. 
+Martijn Starmans is a postdoctoral researcher at the Erasmus MC (Rotterdam, the Netherlands) at the the Biomedical Imaging Group Rotterdam (BIGR) (Dept. of Radiology & Nuclear Medicine) and PHANTOM group (Department of Pathology). His main research interest is the use of AI to improve the diagnostic work-up in oncology through integrated diagnostics, focussed on radiology ("radiomics") and pathology ("pathomics"). To this end, he focusses on exploiting automated machine learning and meta-learning to generalize methods across applications. To evaluate this generalization, he works on a variety of clinical applications (e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors) with various clinicians. 
 
-He successfully co-applied for a grant from the Hanarth foundation on [*AI for the grading and phenotyping of soft-tissue tumors*](https://www.hanarthfonds.nl/en/stefan-klein), and is currently co-supervising two PhD students. Through his research, he has gained ample experience with imaging infrastructure, e.g. DICOM, CTP, XNAT. As supporter of open science, he has released the software for all his studies open source (e.g. his  adaptive radiomics framework [WORC](https://github.com/MStarmans91/WORC)) and released a large [public database](https://doi.org/10.1101/2021.08.19.21262238) of 930 patients.
+Martijn leads the AI for Integrated Diagnostics (AIID) research line, and is currently co-supervising five PhD students with two more folllowing later this year. Through his research, he has gained ample experience with imaging infrastructure, e.g. DICOM, CTP, XNAT. As supporter of open science, he has released the software for all his studies open source (e.g. his  adaptive radiomics framework [WORC](https://github.com/MStarmans91/WORC)) and released a large [public database](https://doi.org/10.1101/2021.08.19.21262238) of 930 patients. He is one of the Tutorial Chairs of MICCAI 2024. 
 
-**Collaborations**
+**Collaborations & Consortia**
 
-Martijn is involved in various working groups and is leader of the platform work package of the Horizon 2020 [EuCanImage consortium](https://eucanimage.eu/): *Towards a European cancer imaging platform for enhanced Artificial Intelligence in oncology*. In this context, he is currently visiting the [AI in Medicine group](https://www.bcn-aim.org/) of Prof. Dr. Karim Lekadir at the University of Barcelona. He is one of the initiators of the Sarcoma Artificial Intelligence (SAI) consortium ([grant awarded](https://www.hanarthfonds.nl/en/stefan-klein)), the Liver AI (LAI) consortium (grant submitted), and project lead of the Colorectal Liver Metastes AI (COLIMA) consortium (grant submitted). In these consortia, in total 51 clinical centers, companies, professional- and patient associations from 18 countries are united. Additionally, he is external advisor of [RadioVal](https://radioval.eu/), and member of the AI4HI AI Development working group, [EUCAIM](https://EUCAIM.eu/), and [EOSC4Cancer](https://EOSC4Cancer.eu/). He has been a visiting researcher of the [BCN-AIM lab](https://www.bcn-aim.org/) of the University of Barcelona.
+Martijn is involved in various large European projects. He is leader of the platform work package of the Horizon 2020 [EuCanImage consortium](https://eucanimage.eu/): *Towards a European cancer imaging platform for enhanced Artificial Intelligence in oncology*, and also work package leader of the  Horizon 2021 [EOSC4Cancer consortium](https://EOSC4Cancer.eu/). Additionally, he is external advisor of [RadioVal](https://radioval.eu/), and member of the AI4HI AI Development working group, and of [EUCAIM](https://EUCAIM.eu/). He has been a visiting researcher of the [BCN-AIM lab](https://www.bcn-aim.org/) of Prof. Karim Lekadir at the University of Barcelona in 2023 for 4 months.
+
+Martijn is one of the initiators of the Sarcoma Artificial Intelligence (SAI) consortium ([grant awarded](https://www.hanarthfonds.nl/en/stefan-klein)), the Liver AI (LAI) consortium ([grant awarded](https://www.nwo.nl/en/news/seven-application-oriented-projects-can-start-through-open-technology-programme)), and project lead of the Colorectal Liver Metastes AI (COLIMA) consortium (grant submitted). In these consortia, in total 51 clinical centers, companies, professional- and patient associations from 18 countries are united. He is also part of the [Trustworthy AI for MRI ICAI LAB](https://icai.ai/icai-labs/trustworthy-ai-for-mri/).
 
 **PhD Degree**
 
-Martijn obtained his PhD degree *''cum laude''* on February 1 2022 with his thesis titled *[Streamlined Quantitative Imaging Biomarker Development: Generalization of radiomics through automated machine learning](https://repub.eur.nl/pub/137089/thesis-MPA-Starmans-embargo-version-61c5831509bd6.pdf)*. Following his passion to efficiently and automatically optimize routines, he developed an adaptive radiomics framework using automated machine learning, described in [this paper](https://arxiv.org/pdf/2108.08618.pdf). He collaborated with a large number of clinicians to develop radiomics biomarkers in a wide variety of clinical applications.
+Martijn obtained his PhD degree *''cum laude''* on February 1 2022 with his thesis titled *[Streamlined Quantitative Imaging Biomarker Development: Generalization of radiomics through automated machine learning](https://repub.eur.nl/pub/137089/thesis-MPA-Starmans-embargo-version-61c5831509bd6.pdf)*. Following his passion to efficiently and automatically optimize routines, he developed an adaptive radiomics framework using automated machine learning, described in [this paper](https://arxiv.org/pdf/2108.08618.pdf). He collaborated with a large number of clinicians to develop radiomics biomarkers in a wide variety of clinical applications. His thesis was nominated for the Fredrik Philipsprijs 2023 for Best Dutch Radiology Thesis and [made the top five](https://radiologen.nl/system/files/bestanden/publicaties/nvvr_mr_28.1_web_pag_17.pdf).
 
 {{< icon name="download" pack="fas" >}} Download my [PhD Thesis](https://repub.eur.nl/pub/137089/thesis-MPA-Starmans-embargo-version-61c5831509bd6.pdf).
 
 **Educational activities**
 
-Martijn has co-founded two courses in the [MSc Technical Medicine](https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine), which he is still teaching plus a course in the BSc Technical Medicine. His tasks include preparing and giving lectures, developing and supervising programming sessions, and examination. He majorly enjoys working together with students and has (co-)supervised 37 students in interships and thesis projects.
+Martijn has co-founded two courses in the [MSc Technical Medicine](https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine), and is currently teaching two courses in the BSc MSC Technical Medicine and MSc Applied Physics of the TU Delft. Martijn also was part of the program committee and mentor in the first [AFRICAI Summer School](https://africai.org/summer-school/), and part of the first [Rotterdam Radiology AI course](https://www.rrai.nl/) organized by the Dutch Radiology Society. He majorly enjoys working together with students and has (co-)supervised 43 students in interships and thesis projects.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}} (slightly outdated) resumé {{< /staticref >}}.

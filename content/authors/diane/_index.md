@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Thomas Phil
+title: Yin Tai Wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: PhD Student, Erasmus MC, Rotterdam, NL (2018)
+role: MSc Bioinformatics and System Biology, Vrije Universiteit (VU), Amsterdam, NL
 
 # Title of project here
 interests:
-- "Radiomics in head-and-neck cancer"
+- "Diagnosis of solid appearing lesions based on MRI and deep learning."
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # For sorting
-date: '2022-01-02'
+date: '2023-09-01'
 
-user_groups: ["PhD Student"]
+user_groups: ["Current Team Members"]
 ---

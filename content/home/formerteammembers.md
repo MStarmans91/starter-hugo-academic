@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 90
 
 title: Former Team Members
 subtitle:
@@ -25,6 +25,8 @@ content:
     - MSc Internship
     - BSc Thesis
     - BSc Internship
+    - PhD Student
+
 
 design:
   # Show user's social networking links? (true/false)

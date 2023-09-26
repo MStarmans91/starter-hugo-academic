@@ -37,9 +37,9 @@ feature:
   icon_pack: fab
   name: Docker
 - description:
-  icon: book
+  icon: database
   icon_pack: fas
-  name: MatLab
+  name: XNAT
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

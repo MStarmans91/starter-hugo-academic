@@ -25,6 +25,32 @@ date_format: '2006'
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2023-09-01"
+  description: |2-
+    - Role: Co-applicant*
+    - Topic: The Liver Artificial Intelligence (LAI) consortium: a benchmark dataset and optimized machine learning methods for MRI-based diagnosis of solid appearing liver lesions
+    - Total funding: 1M Euro.
+
+    <font size="2"> *Not officially mentioned as co-applicant due to formalities.
+    Reference of formal applicant available upon request. </font>
+  organization: NWO Open Technology Program
+  organization_url: https://www.nwo.nl
+  title: Research Grant
+  url: "https://www.nwo.nl/en/news/seven-application-oriented-projects-can-start-through-open-technology-programme"
+- certificate_url:
+  date_end: ""
+  date_start: "2023-01-01"
+  description: |2-
+    - Role: Co-applicant
+    - Topic: An artificial intelligence (AI)-based model for detection of incidental pulmonary embolism in chest CTs
+    - Total funding: 1M Euro.
+
+  organization: Health-Holland
+  organization_url: https://www.health-holland.com/funding-opportunities/tki-match
+  title: Top Consortia for Knowledge and Innovation’s (TKI) Grant
+  url: "https://www.health-holland.com/funding-opportunities/tki-match"
+- certificate_url:
+  date_end: ""
   date_start: "2021-01-01"
   description: ""
   organization: Convergence Health & Technology
@@ -37,7 +63,7 @@ item:
   description: |2-
     - Role: Co-applicant*
     - Topic: Automatic grading and phenotyping of soft-tissue tumors through machine learning to guide personalized cancer treatment
-    - Total funding: 400,000 Euro.
+    - Total funding: 400k Euro.
 
 
     <font size="2"> *Not officially mentioned as co-applicant due to formalities.

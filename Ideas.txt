@@ -1,10 +1,9 @@
 # To Do
 - Future AI als klaar
-- Update with imaging program of excellence text
-- MSc Thesis Upload
-- Workshop visits (e.g. XNAT, Health-RI)
 
 # Ideas
+- MSc Thesis Upload
+- Maybe explicit list of consortia, see Hanarth CV Stefan
 - Re-enable talks module, add conference presentations etc, thesis defense. Conference abstracts can be added with publication type 9 if I did not give the talk
     - Quantib blog
     - EuCanImage webinar

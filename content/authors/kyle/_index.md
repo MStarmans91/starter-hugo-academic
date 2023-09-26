@@ -6,7 +6,7 @@ title: Kyle Chehin
 superuser: false
 
 # Role/position/tagline
-role: MSc Medicine, Erasmus MC, Rotterdam, NL (2022)
+role: MSc Medicine, Erasmus MC, Rotterdam, NL
 
 # Title of project here
 interests:
@@ -18,5 +18,5 @@ highlight_name: false
 # For sorting
 date: '2022-09-19'
 
-user_groups: ["Current Team Members"]
+user_groups: ["MSc Thesis"]
 ---

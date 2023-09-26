@@ -6,7 +6,7 @@ title: Aisha Goedhart
 superuser: false
 
 # Role/position/tagline
-role: MSc Biomedical Engineering, Delft University of Technology, Delft, NL (2022)
+role: MSc Biomedical Engineering, Delft University of Technology, Delft, NL (2022 - 2023)
 
 # Title of project here
 interests:
@@ -18,5 +18,5 @@ highlight_name: false
 # For sorting
 date: '2022-05-15'
 
-user_groups: ["Current Team Members"]
+user_groups: ["MSc Thesis"]
 ---

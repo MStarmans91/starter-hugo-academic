@@ -1,6 +1,11 @@
 # Locally launch a server: cmd, go to this folder, than
 hugo server
 
+# Add image to a grant / award
+- Add .svg image to C:\Users\Martijn Starmans\Documents\GitHub\starter-hugo-academic\assets\media\icons\brands,
+    should be the same name as the organization but spaces should be replaced with underscores.
+- Conversion to .svg can best be done from Adobe Illustrator.
+
 # How to add / remove a widget / page:
 - Add/comment a tab to config/_default/menus.yaml
 - Add/remove a .md file to content/home or set active: false
@@ -19,6 +24,15 @@ hugo server
 - cmd and run the following commands:
 - hugo mod get to update wowchemy
 - hugo mod clean --all to clean cache etc.
+
+# Managing group member user_groups
+
+# Activate talks module
+- content/home/talks set active to True
+- Add the following to config/_default/menus.yaml
+  - name: Talks
+    url: '#talks'
+    weight: 60
 
 # Publication types and change them
 https://wowchemy.com/docs/content/publications/
