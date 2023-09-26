@@ -31,13 +31,16 @@ experience:
     date_end: ''
     description: |2-
         Extending the work of his PhD, Martijn works on generalization of
-        radiomics biomarkers (conventional and deep learnign based) using
-        automated machine learning. While working on a wide range of
+        radiomics and pathomics biomarkers (conventional and deep learning based) using
+        automated machine learning and meta-learning. While working on a wide range of
         (oncologic) clinical applications, his main interests include
         soft tissue tumors and liver cancer. He is active in various
-        technical and clinical networks, such as EuCanImage, the Sarcoma
+        technical and clinical networks, such as EuCanImage, EOSC4Cancer, the Sarcoma
         Artificial Intelligence (SAI) consortium, and the Liver Artificial
-        Intelligence (LAI) consortium
+        Intelligence (LAI) consortium.
+
+        As of October 2023, Martijn has a permanent position shared between
+        the Departments of Radiology & Nuclear Medicine and Pathology.
 
         Responsibilities include:
 
@@ -46,9 +49,7 @@ experience:
         * Software implementation
         * Teaching and continuous development of three courses in the BSc and
           MSc Technical Medicine
-        * Supervision of two PhD students
-
-        Supervisors: Stefan Klein, Jan-Jaap Visser, Wiro Niessen
+        * Supervision of PhD students
         
   - title: Visiting Postdoctoral Researcher
     company: University of Barcelona, Artificial Intelligence in Medicine Lab
