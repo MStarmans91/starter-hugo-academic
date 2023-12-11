@@ -18,16 +18,16 @@ organizations:
   url: https://www.bcn-aim.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include radiomics, deep learning and AutoML.
+bio: My research interests include radiomics, pathomics, meta-learning, and AutoML.
 
 # Interests to show in About widget
 interests:
 - Radiomics
 - Pathomics
 - RadioPathomics
+- Multimodal machine learning
 - AutoML
 - Meta-Learning
-- Multimodal machine learning
 - Oncology
 - Soft-tissue tumors / sarcoma
 - Liver cancer
@@ -84,9 +84,7 @@ email: ""
 highlight_name: true
 ---
 
-Martijn Starmans is a postdoctoral researcher at the Erasmus MC (Rotterdam, the Netherlands) at the the Biomedical Imaging Group Rotterdam (BIGR) (Dept. of Radiology & Nuclear Medicine) and PHANTOM group (Department of Pathology). His main research interest is the use of AI to improve the diagnostic work-up in oncology through integrated diagnostics, focussed on radiology ("radiomics") and pathology ("pathomics"). To this end, he focusses on exploiting automated machine learning and meta-learning to generalize methods across applications. To evaluate this generalization, he works on a variety of clinical applications (e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors) with various clinicians. 
-
-Martijn leads the AI for Integrated Diagnostics (AIID) research line, and is currently co-supervising five PhD students with two more folllowing later this year. Through his research, he has gained ample experience with imaging infrastructure, e.g. DICOM, CTP, XNAT. As supporter of open science, he has released the software for all his studies open source (e.g. his  adaptive radiomics framework [WORC](https://github.com/MStarmans91/WORC)) and released a large [public database](https://doi.org/10.1101/2021.08.19.21262238) of 930 patients. He is one of the Tutorial Chairs of MICCAI 2024. 
+Martijn Starmans is a postdoctoral researcher at the Erasmus MC (Rotterdam, the Netherlands) leading the AI for Integrated Diagnostics (AIID) research line, with a dual appointment at the Biomedical Imaging Group Rotterdam (BIGR) (Dept. of Radiology & Nuclear Medicine) and PHANTOM group (Department of Pathology). His main research interest is the use of AI to improve the diagnostic work-up in oncology through integrated diagnostics, focussed on radiology ("radiomics") and pathology ("pathomics"). Specifically, he develops multi-modal machine learning methods to simultanously co-learn from both modalities ("radiopathomics"), and automated machine learning and meta-learning methods to generalize these methods across clinial applications. He works on a variety of clinical applications (e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors). 
 
 **Collaborations & Consortia**
 
@@ -102,6 +100,6 @@ Martijn obtained his PhD degree *''cum laude''* on February 1 2022 with his thes
 
 **Educational activities**
 
-Martijn has co-founded two courses in the [MSc Technical Medicine](https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine), and is currently teaching two courses in the BSc MSC Technical Medicine and MSc Applied Physics of the TU Delft. Martijn also was part of the program committee and mentor in the first [AFRICAI Summer School](https://africai.org/summer-school/), and part of the first [Rotterdam Radiology AI course](https://www.rrai.nl/) organized by the Dutch Radiology Society. He majorly enjoys working together with students and has (co-)supervised 43 students in interships and thesis projects.
+Martijn has co-founded two courses in the [MSc Technical Medicine](https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine), and is currently teaching two courses in the BSc MSC Technical Medicine and MSc Applied Physics of the TU Delft. Martijn also was part of the program committee and mentor in the first [AFRICAI Summer School](https://africai.org/summer-school/), and part of the first [Rotterdam Radiology AI course](https://www.rrai.nl/) organized by the Dutch Radiology Society. He enjoys working together with students and has so-far (co-)supervised 43 students in interships and thesis projects.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}} (slightly outdated) resumé {{< /staticref >}}.

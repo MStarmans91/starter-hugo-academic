@@ -6,7 +6,7 @@ title: Eline van Lange
 superuser: false
 
 # Role/position/tagline
-role: MSc Thesis Technical Medicine, Delft University of Technology, Delft, NL
+role: MSc Thesis Technical Medicine, Delft University of Technology, Delft, NL (2021 - 2022)
 
 # Title of project here
 interests:

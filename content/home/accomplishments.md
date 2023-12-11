@@ -25,6 +25,18 @@ date_format: '2006'
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2023-11-20"
+  description: |2-
+    - Role: Main applicant
+    - Topic: Radiology and pathology join forces through Artificial Intelligence for Integrated Diagnostics (AIID)
+    - Total funding: 2M Euro.
+
+  organization: AiNed Personal Fellowship
+  organization_url: https://www.nwo.nl/en/calls/ngf-ained-fellowship-grants
+  title: Personal Grant
+  url: "https://www.nwo.nl/en/calls/ngf-ained-fellowship-grants"
+- certificate_url:
+  date_end: ""
   date_start: "2023-09-01"
   description: |2-
     - Role: Co-applicant*

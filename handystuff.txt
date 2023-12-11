@@ -17,7 +17,7 @@ hugo server
 - conda activate HugoConvert2
 - Place .bib file in main folder
 - academic import --bibtex self.bib
-- Yes, you can just put in the new file, the tool will only add new entries. However, it will redo all conferences, so move those to the conferences folder. And remove all software
+- Yes, you can just put in the new file, the tool will only add new entries. However, it will redo all conferences, so move those to the conferences folder . And remove all software
 
 # Troubles due to versioning
 - Put the newest Hugo binary in C:\Hugo\bin
@@ -42,3 +42,6 @@ To add, simply add what you want to i18n/en_edited.yaml and data/publication_typ
 I added
 9 = conference abstracts
 10 = software
+
+# Changing the title
+config/config.yaml

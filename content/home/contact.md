@@ -28,7 +28,7 @@ content:
   coordinates:
     latitude: '51.91091125358585'
     longitude: '4.467811182962294'
-  directions: Department of Radiology, Room Na-2616
+  directions: Department of Radiology & Nuclear Medicine, Room Na-2616
   office_hours:
   appointment_url:
   contact_links:

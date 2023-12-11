@@ -1,5 +1,6 @@
 # To Do
 - Future AI als klaar
+- ISIDORE
 
 # Ideas
 - MSc Thesis Upload
