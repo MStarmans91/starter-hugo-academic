@@ -6,7 +6,7 @@ title: Martijn P. A. Starmans
 superuser: true
 
 # Role/position/tagline
-role: PostDoc Artificial Intelligence for Integrated Diagnostics focused on Medical Imaging in Oncology
+role: Assistant Professor Artificial Intelligence for Integrated Diagnostics (AIID) focused on Medical Imaging in Oncology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -84,13 +84,15 @@ email: ""
 highlight_name: true
 ---
 
-Martijn Starmans is a postdoctoral researcher at the Erasmus MC (Rotterdam, the Netherlands) leading the AI for Integrated Diagnostics (AIID) research line, with a dual appointment at the Biomedical Imaging Group Rotterdam (BIGR) (Dept. of Radiology & Nuclear Medicine) and PHANTOM group (Department of Pathology). His main research interest is the use of AI to improve the diagnostic work-up in oncology through integrated diagnostics, focussed on radiology ("radiomics") and pathology ("pathomics"). Specifically, he develops multi-modal machine learning methods to simultanously co-learn from both modalities ("radiopathomics"), and automated machine learning and meta-learning methods to generalize these methods across clinial applications. He works on a variety of clinical applications (e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors). 
+Martijn Starmans is an assistant professor at the Erasmus MC (Rotterdam, the Netherlands) leading the AI for Integrated Diagnostics (AIID) research line, with a dual appointment at the Biomedical Imaging Group Rotterdam (BIGR) (Dept. of Radiology & Nuclear Medicine) and PHANTOM group (Department of Pathology). His main research interest is the use of AI to improve the diagnostic work-up in oncology through integrated diagnostics, focussed on radiology ("radiomics") and pathology ("pathomics"). Specifically, he develops multi-modal machine learning methods to simultanously co-learn from both modalities ("radiopathomics"), and automated machine learning and meta-learning methods to generalize these methods across clinial applications. He works on a variety of clinical applications (e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors). 
 
 **Collaborations & Consortia**
 
 Martijn is involved in various large European projects. He is leader of the platform work package of the Horizon 2020 [EuCanImage consortium](https://eucanimage.eu/): *Towards a European cancer imaging platform for enhanced Artificial Intelligence in oncology*, and also work package leader of the  Horizon 2021 [EOSC4Cancer consortium](https://EOSC4Cancer.eu/). Additionally, he is external advisor of [RadioVal](https://radioval.eu/), and member of the AI4HI AI Development working group, and of [EUCAIM](https://EUCAIM.eu/). He has been a visiting researcher of the [BCN-AIM lab](https://www.bcn-aim.org/) of Prof. Karim Lekadir at the University of Barcelona in 2023 for 4 months.
 
 Martijn is one of the initiators of the Sarcoma Artificial Intelligence (SAI) consortium ([grant awarded](https://www.hanarthfonds.nl/en/stefan-klein)), the Liver AI (LAI) consortium ([grant awarded](https://www.nwo.nl/en/news/seven-application-oriented-projects-can-start-through-open-technology-programme)), and project lead of the Colorectal Liver Metastes AI (COLIMA) consortium (grant submitted). In these consortia, in total 51 clinical centers, companies, professional- and patient associations from 18 countries are united. He is also part of the [Trustworthy AI for MRI ICAI LAB](https://icai.ai/icai-labs/trustworthy-ai-for-mri/).
+
+For a better overview on my projects, see https://bigr.nl/member/martijn/. 
 
 **PhD Degree**
 

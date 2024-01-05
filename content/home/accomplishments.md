@@ -32,9 +32,21 @@ item:
     - Total funding: 2M Euro.
 
   organization: AiNed Personal Fellowship
-  organization_url: https://www.nwo.nl/en/calls/ngf-ained-fellowship-grants
+  organization_url: https://www.nwo.nl/en/news/ained-fellowship-grant-for-dr-ir-martijn-p-a-starmans
   title: Personal Grant
-  url: "https://www.nwo.nl/en/calls/ngf-ained-fellowship-grants"
+  url: "https://amazingerasmusmc.com/radiology/ai-talent-combines-separate-worlds-of-radiology-and-pathology/"
+- certificate_url:
+  date_end: ""
+  date_start: "2023-10-01"
+  description: |2-
+    - Role: Participant
+    - Topic: PATH2XNAT: COVID 19 meets Pathomics meets XNAT
+    - Total funding: 280k Euro.
+
+  organization: ISIDORe JRA Programme
+  organization_url: https://isidore-project.eu/
+  title: Research Grant
+  url: "https://bigr.nl/project/path2xnat/"
 - certificate_url:
   date_end: ""
   date_start: "2023-09-01"
@@ -46,9 +58,9 @@ item:
     <font size="2"> *Not officially mentioned as co-applicant due to formalities.
     Reference of formal applicant available upon request. </font>
   organization: NWO Open Technology Program
-  organization_url: https://www.nwo.nl
+  organization_url: https://www.nwo.nl/en/news/seven-application-oriented-projects-can-start-through-open-technology-programme
   title: Research Grant
-  url: "https://www.nwo.nl/en/news/seven-application-oriented-projects-can-start-through-open-technology-programme"
+  url: "https://bigr.nl/project/lai/"
 - certificate_url:
   date_end: ""
   date_start: "2023-01-01"
@@ -81,9 +93,9 @@ item:
     <font size="2"> *Not officially mentioned as co-applicant due to formalities.
     Reference of formal applicant available upon request. </font>
   organization: Hanarth Fonds
-  organization_url: https://www.hanarthfonds.nl
+  organization_url: https://www.hanarthfonds.nl/en/stefan-klein
   title: Research Grant
-  url: "https://www.hanarthfonds.nl/en/stefan-klein"
+  url: "https://bigr.nl/project/sai/"
 - certificate_url:
   date_end: ""
   date_start: "2019-01-01"
