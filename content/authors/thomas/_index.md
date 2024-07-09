@@ -6,7 +6,7 @@ title: Thomas Phil
 superuser: false
 
 # Role/position/tagline
-role: PhD Student, Erasmus MC, Rotterdam, NL (2018)
+role: PhD Student, Erasmus MC, Rotterdam, NL (2022)
 
 # Title of project here
 interests:

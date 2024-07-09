@@ -15,7 +15,7 @@ hugo server
 
 # How to convert .bib files to Hugo .md files (zie ook https://github.com/wowchemy/hugo-academic-cli)
 - conda activate HugoConvert2
-- Place .bib file in main folder
+- Place .bib file in main folder of this repo: take this from your cv self.bib, not Endnote!
 - academic import --bibtex self.bib
 - Yes, you can just put in the new file, the tool will only add new entries. However, it will redo all conferences, so move those to the conferences folder . And remove all software
 

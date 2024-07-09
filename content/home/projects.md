@@ -33,8 +33,8 @@ content:
     tag: Clinical
   - name: Radiomics
     tag: Radiomics
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Pathomics
+    tag: Pathomics
   - name: AutoML
     tag: AutoML
 
@@ -53,4 +53,4 @@ design:
   flip_alt_rows: false
 ---
 
-I work on various clinical applications with many clinicians, and thus also various technical solutions. Hence, there are usually too many projects to describe here: feel free to contact me for more information if you are interested in an internship / thesis on radiomics, deep learning, and/or automated machine learning!
+We work on various clinical applications with different clinicians, and thus also various technical solutions within medical image analysis & AI. Hence, there are usually too many projects to describe here: Currently, we do not have any predefined projects available, but feel free to contact me for more information if you are interested in an internship / thesis! For an overview of some past projects, please see https://bigr.nl/open-projects/.

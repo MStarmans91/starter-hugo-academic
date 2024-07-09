@@ -22,34 +22,34 @@ date_format: 'Jan 2, 2006'
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor & Group Leader
+    company: Erasmus Medical Center
+    company_url: 'https://bigr.nl/researchline/aiid/'
+    company_logo: Erasmus_Medical_Center
+    location: Rotterdam, the Netherlands
+    date_start: '2024-01-01'
+    date_end: ''
+    description: |2-
+        With a joint appointment at the Radiology \& Nuclear  and Pathology departments, Martijn is heading the AI for Integrated Diagnostics (AIID) research line. The AIID group develops novel multimodal machine learning methods to develop quantitative biomarkers, focused on medical imaging and application in concology.
+
+        * **Collaboration and awards**: Martijn is involved in various working groups and is work package leader in the Horizon 2020 EuCanImage and Horizon 2021 EOSC4Cancer projects. He is initiator and receiptient of various (consortium) grants, including an NWO NGF AINed Perfonal Fellowship (2M), the Liver AI (LAI) consortium (NWO OTP 1M grant), the Sarcoma Artificial Intelligence (SAI) consortium (Hanarth Fonds 400k grant), a Health-Holland 1M TKI grant on incidental pulmonary embolism, and project lead of the Colorectal Liver Metastes AI (COLIMA) consortium (grant submitted). In these consortia, in total 51 clinical centers, companies, professional- and patient associations from 18 countries are united. Additionally, and he is external advisor of RadioVal.
+        * **MICCAI 2024 organization**: first ever Open Data Chair, initiator of the AFRICAI repository for medical imaging.
+        * **Trustworthy AI**: co-lead of the FUTURE-AI guideline on trustworthy and deployable AI.
+        * **Supervision**: 1 PostDoc, 9 PhD students, and 6 MSc students.
+
   - title: Postdoctoral Researcher
     company: Erasmus Medical Center
     company_url: 'https://www.erasmusmc.nl/en/'
     company_logo: Erasmus_Medical_Center
     location: Rotterdam, the Netherlands
-    date_start: '2020-10-01'
-    date_end: ''
+    date_start: '2021-09-01'
+    date_end: '2023-12-31'
     description: |2-
-        Extending the work of his PhD, Martijn works on generalization of
-        radiomics and pathomics biomarkers (conventional and deep learning based) using
-        automated machine learning and meta-learning. While working on a wide range of
-        (oncologic) clinical applications, his main interests include
-        soft tissue tumors and liver cancer. He is active in various
-        technical and clinical networks, such as EuCanImage, EOSC4Cancer, the Sarcoma
-        Artificial Intelligence (SAI) consortium, and the Liver Artificial
-        Intelligence (LAI) consortium.
+        Extending the work of his PhD, Martijn's research focused on generalization of radiomics biomarkers (conventional and deep learning based) using automated machine learning and meta-learning. He worked on a variety of clinical applications (e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiomyopathy, neuroendocrine tumors, CRPS).
 
-        As of October 2023, Martijn has a permanent position shared between
-        the Departments of Radiology & Nuclear Medicine and Pathology.
-
-        Responsibilities include:
-
-        * Grant applications
-        * Development of new methods
-        * Software implementation
-        * Teaching and continuous development of three courses in the BSc and
-          MSc Technical Medicine
-        * Supervision of PhD students
+        * **Management**: Co-developer of Imaging Office of department of Radiology and Nuclear Medicine.
+        * **Supervision**: 17 MSc students.
+        * **Education**: Teaching and continuous development of three courses in the BSc and MSc Technical Medicine
         
   - title: Visiting Postdoctoral Researcher
     company: University of Barcelona, Artificial Intelligence in Medicine Lab

@@ -32,11 +32,10 @@ content:
   office_hours:
   appointment_url:
   contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/MartijnStarmans'
-
+      link: https://www.linkedin.com/in/martijn-p-a-starmans-85901281/
 
 
 

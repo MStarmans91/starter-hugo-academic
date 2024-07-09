@@ -1,6 +1,7 @@
 # To Do
 - Future AI als klaar
-- ISIDORE
+- First publication Xinyi: featured article?
+- Behind on a lot of conferences
 
 # Ideas
 - MSc Thesis Upload
@@ -8,7 +9,10 @@
 - Re-enable talks module, add conference presentations etc, thesis defense. Conference abstracts can be added with publication type 9 if I did not give the talk
     - Quantib blog
     - EuCanImage webinar
+    - Invited talks 2023 and 2024, see also radiology year reports
 - Press: Hart van Rotterdam
+- Consortium overview
+- Press: Beeldspraak interviews
 
 
 # Extra

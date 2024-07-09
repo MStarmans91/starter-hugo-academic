@@ -6,7 +6,7 @@ title: Martijn P. A. Starmans
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor Artificial Intelligence for Integrated Diagnostics (AIID) focused on Medical Imaging in Oncology
+role: Assistant Professor & PI *Artificial Intelligence for Integrated Diagnostics (AIID) focused on Medical Imaging in Oncology*
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,8 +14,6 @@ organizations:
   url: http://bigr.nl/
 - name: Erasmus Medical Center, Department of Pathology
   url: https://www.erasmusmc.nl/en/
-- name: University of Barcelona
-  url: https://www.bcn-aim.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include radiomics, pathomics, meta-learning, and AutoML.
@@ -51,6 +49,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: https://bigr.nl/member/martijn/
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
@@ -87,12 +88,14 @@ highlight_name: true
 Martijn Starmans is an assistant professor at the Erasmus MC (Rotterdam, the Netherlands) leading the AI for Integrated Diagnostics (AIID) research line, with a dual appointment at the Biomedical Imaging Group Rotterdam (BIGR) (Dept. of Radiology & Nuclear Medicine) and PHANTOM group (Department of Pathology). His main research interest is the use of AI to improve the diagnostic work-up in oncology through integrated diagnostics, focussed on radiology ("radiomics") and pathology ("pathomics"). Specifically, he develops multi-modal machine learning methods to simultanously co-learn from both modalities ("radiopathomics"), and automated machine learning and meta-learning methods to generalize these methods across clinial applications. He works on a variety of clinical applications (e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors). 
 
 **Collaborations & Consortia**
+Martijn is currently part of the [MICCAI 2024](https://conferences.miccai.org/2024/en/default.asp) organization committee one of the two first ever Open Data chairs. To promote sharing of medical imaging data, he is organizing the first ever [Open Data Event](https://conferences.miccai.org/2024/en/OPEN-DATA.html) at MICCAI 2024, with a focus on underrepresented diseases and populations, with for this year special attention for African datasets. To facilitate sharing of data, he established the [AFRICAI](https://zenodo.org/doi/10.5281/zenodo.10816768) repository, which other resources can use to make data FAIR.
+
+Martijn is one of the initiators and PIs of the Sarcoma Artificial Intelligence (SAI) consortium ([grant awarded](https://www.hanarthfonds.nl/en/stefan-klein)), the Liver AI (LAI) consortium ([grant awarded](https://www.nwo.nl/en/news/seven-application-oriented-projects-can-start-through-open-technology-programme)), and project lead of the Colorectal Liver Metastes AI (COLIMA) consortium (grant submitted). In these consortia, in total 51 clinical centers, companies, professional- and patient associations from 18 countries are united. He is also part of the [Trustworthy AI for MRI ICAI LAB](https://icai.ai/icai-labs/trustworthy-ai-for-mri/).
 
 Martijn is involved in various large European projects. He is leader of the platform work package of the Horizon 2020 [EuCanImage consortium](https://eucanimage.eu/): *Towards a European cancer imaging platform for enhanced Artificial Intelligence in oncology*, and also work package leader of the  Horizon 2021 [EOSC4Cancer consortium](https://EOSC4Cancer.eu/). Additionally, he is external advisor of [RadioVal](https://radioval.eu/), and member of the AI4HI AI Development working group, and of [EUCAIM](https://EUCAIM.eu/). He has been a visiting researcher of the [BCN-AIM lab](https://www.bcn-aim.org/) of Prof. Karim Lekadir at the University of Barcelona in 2023 for 4 months.
 
-Martijn is one of the initiators of the Sarcoma Artificial Intelligence (SAI) consortium ([grant awarded](https://www.hanarthfonds.nl/en/stefan-klein)), the Liver AI (LAI) consortium ([grant awarded](https://www.nwo.nl/en/news/seven-application-oriented-projects-can-start-through-open-technology-programme)), and project lead of the Colorectal Liver Metastes AI (COLIMA) consortium (grant submitted). In these consortia, in total 51 clinical centers, companies, professional- and patient associations from 18 countries are united. He is also part of the [Trustworthy AI for MRI ICAI LAB](https://icai.ai/icai-labs/trustworthy-ai-for-mri/).
 
-For a better overview on my projects, see https://bigr.nl/member/martijn/. 
+For a better overview on his projects, see his BIGR home page: https://bigr.nl/member/martijn/. 
 
 **PhD Degree**
 

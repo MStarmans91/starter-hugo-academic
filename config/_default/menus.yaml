@@ -26,7 +26,7 @@ main:
   - name: Former Team
     url: '#formerteammembers'
     weight: 90
-  # Skills is in between here
+  # Skills is in between here: just removed all text from the skills.md file to disable
   - name: Contact
     url: '#contact'
     weight: 100
