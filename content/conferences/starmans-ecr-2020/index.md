@@ -5,12 +5,12 @@ title: Multicentre studies for more robust radiomics signatures
 subtitle: ''
 summary: ''
 authors:
-- M P A Starmans
+- admin
 tags:
 - presentation
 categories: []
 date: '2020-07-01'
-lastmod: 2022-02-24T14:11:37+01:00
+lastmod: 2022-12-10T14:56:41+01:00
 featured: false
 draft: false
 
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-24T13:11:36.778172Z'
+publishDate: '2022-12-10T13:56:40.493669Z'
 publication_types:
-- '0'
+- '9'
 abstract: ''
 publication: '*ECR 2020*'
 ---

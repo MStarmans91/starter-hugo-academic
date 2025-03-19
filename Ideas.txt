@@ -1,20 +1,23 @@
 # To Do
-- Future AI als klaarr
-- First publication Xinyi: featured article?
-- Behind on a lot of conferences
+- SAI review als klaar: highlight
+- Add Beeldspraak Africa interview
+- Add MICCAI SIG to consortia!
+- AFRICAI-RI grant als publiek
+- Oude grants highlighten, nu alleen AINEd gehighlight
+- Altijd: grants als highlights, zie AINed als voorbeeld
 
 # Ideas
-- MSc Thesis Upload
 - Maybe explicit list of consortia, see Hanarth CV Stefan
 - Re-enable talks module, add conference presentations etc, thesis defense. Conference abstracts can be added with publication type 9 if I did not give the talk
     - Quantib blog
     - EuCanImage webinar
     - Invited talks 2023 and 2024, see also radiology year reports
 - Press: Hart van Rotterdam
-- Consortium overview
 - Press: Beeldspraak interviews
+- Press: MAGMA
+- Jaarverslag radiologie 2024 als highlight
+- Jaarverslag radiologie 2025 als highlight als klaar
 
 
 # Extra
-- Images next to publications
 - Banner Thesis Cover / application images

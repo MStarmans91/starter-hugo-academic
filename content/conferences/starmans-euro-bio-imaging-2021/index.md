@@ -6,13 +6,13 @@ title: Reproducible radiomics through automated machine learning validated on tw
 subtitle: ''
 summary: ''
 authors:
-- M P A Starmans
+- admin
 - Marcel Koek
 tags:
 - presentation
 categories: []
 date: '2021-06-01'
-lastmod: 2022-02-24T14:11:39+01:00
+lastmod: 2022-12-10T14:56:42+01:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-24T13:11:38.707305Z'
+publishDate: '2022-12-10T13:56:41.903299Z'
 publication_types:
-- '0'
+- '9'
 abstract: ''
-publication: '*Euro-Bioimaging User Forum 2021*'
+publication: '*Euro-Bioimaging User Forum 2021: Understanding and Fighting Cancer*'
 ---

@@ -14,12 +14,12 @@ authors:
 - Jacob J. Visser
 - Wiro J. Niessen
 - Dirk J. Grünhagen
-- admin
+- M. P. A. Starmans
 tags:
 - abstract
 categories: []
 date: '2022-01-01'
-lastmod: 2022-12-10T15:22:53+01:00
+lastmod: 2025-03-14T08:28:48+01:00
 featured: false
 draft: false
 
@@ -37,11 +37,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-10T14:22:52.072823Z'
+publishDate: '2025-03-14T07:28:38.457564Z'
 publication_types:
-- '9'
+- '1'
 abstract: ''
-publication: '*Connective Tissue Oncology Society (CTOS) Annual Meeting*'
+publication: '*Connective Tissue Oncology Society (CTOS) Annual Meeting, Vancouver,
+  Canada*'
 links:
 - name: URL
   url: https://cdmcd.co/mXbEEr

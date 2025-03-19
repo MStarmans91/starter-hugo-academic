@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Douwe Spaanderman
+title: Douwe J. Spaanderman
 
 # Is this the primary user of the site?
 superuser: false

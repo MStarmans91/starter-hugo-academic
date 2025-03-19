@@ -25,6 +25,54 @@ date_format: '2006'
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2025-03-01"
+  description: |2-
+    - Role: Co-PI
+    - Topic: AFRICAI-RI: A Pan-African Research Infrastructure for Collaborative Biomedical Imaging and Artificial Intelligence
+    - Total funding: 5M Euro.
+
+  organization: EU Horizon
+  organization_url: ''
+  title: Research Grant
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2025-01-01"
+  description: |2-
+    - Role: Co-PI
+    - Topic: Detecting Complex Regional Pain Syndrome and quantifying treatment success using a trustworthy artificial intelligence model based on video thermography
+    - Total funding: 16k Euro.
+
+  organization: Erasmus Medical Center
+  organization_url: 'https://www.erasmusmc.nl/en/'
+  title: Research Grant
+  url: "https://www.linkedin.com/posts/technology-transfer-office-tto-%E2%80%93-erasmus-mc_technology-transfer-office-tto-erasmus-activity-7273292860202930176-k_O0/"
+- certificate_url:
+  date_end: ""
+  date_start: "2025-01-01"
+  description: |2-
+    - Role: Co-PI
+    - Topic: Trustworthy and explainable AI models for differentiating benign and malignant bone tumors on radiological imaging
+    - Total funding: 14k Euro.
+
+  organization: Erasmus Medical Center
+  organization_url: 'https://www.erasmusmc.nl/en/'
+  title: Research Grant
+  url: "https://www.linkedin.com/posts/technology-transfer-office-tto-%E2%80%93-erasmus-mc_technology-transfer-office-tto-erasmus-activity-7273292860202930176-k_O0/"
+- certificate_url:
+  date_end: ""
+  date_start: "2024-12-11"
+  description: |2-
+    - Role: Main applicant
+    - Topic: RadPath-RI: Research infrastructure to join forces of radiology and pathology through Artificial Intelligence for Integrated Diagnostics (AIID)
+    - Total funding: 120k Euro.
+
+  organization: Erasmus Medical Center
+  organization_url: 'https://www.erasmusmc.nl/en/'
+  title: Personal Grant
+  url: ""
+- certificate_url:
+  date_end: ""
   date_start: "2023-11-20"
   description: |2-
     - Role: Main applicant
@@ -51,11 +99,11 @@ item:
   date_end: ""
   date_start: "2023-09-01"
   description: |2-
-    - Role: Co-applicant*
+    - Role: Co-PI*
     - Topic: The Liver Artificial Intelligence (LAI) consortium: a benchmark dataset and optimized machine learning methods for MRI-based diagnosis of solid appearing liver lesions
     - Total funding: 1M Euro.
 
-    <font size="2"> *Not officially mentioned as co-applicant due to formalities.
+    <font size="2"> *Not officially mentioned as Co-PI due to formalities.
     Reference of formal applicant available upon request. </font>
   organization: NWO Open Technology Program
   organization_url: https://www.nwo.nl/en/news/seven-application-oriented-projects-can-start-through-open-technology-programme
@@ -65,7 +113,7 @@ item:
   date_end: ""
   date_start: "2023-01-01"
   description: |2-
-    - Role: Co-applicant
+    - Role: Co-PI
     - Topic: An artificial intelligence (AI)-based model for detection of incidental pulmonary embolism in chest CTs
     - Total funding: 1M Euro.
 
@@ -73,6 +121,18 @@ item:
   organization_url: https://www.health-holland.com/funding-opportunities/tki-match
   title: Top Consortia for Knowledge and Innovation’s (TKI) Grant
   url: "https://www.health-holland.com/funding-opportunities/tki-match"
+- certificate_url:
+  date_end: ""
+  date_start: "2022-01-01"
+  description: |2-
+    - Role: Co-applicant
+    - Topic: EUCAIM: European Federation for Cancer Images
+    - Total funding: 33M Euro.
+
+  organization: EU Horizon
+  organization_url: ''
+  title: Research Grant
+  url: "https://cancerimage.eu/"
 - certificate_url:
   date_end: ""
   date_start: "2021-01-01"
@@ -85,12 +145,12 @@ item:
   date_end: ""
   date_start: "2020-01-01"
   description: |2-
-    - Role: Co-applicant*
+    - Role: Co-PI*
     - Topic: Automatic grading and phenotyping of soft-tissue tumors through machine learning to guide personalized cancer treatment
     - Total funding: 400k Euro.
 
 
-    <font size="2"> *Not officially mentioned as co-applicant due to formalities.
+    <font size="2"> *Not officially mentioned as Co-PI due to formalities.
     Reference of formal applicant available upon request. </font>
   organization: Hanarth Fonds
   organization_url: https://www.hanarthfonds.nl/en/stefan-klein

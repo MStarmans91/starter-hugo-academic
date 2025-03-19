@@ -5,17 +5,12 @@ title: Radiomics and liver tumors
 subtitle: ''
 summary: ''
 authors:
-- M P A Starmans
-- S R van der Voort
-- R L Miclea
-- W J Niessen
-- M G Thomeer
-- S Klein
+- Martijn P A Starmans
 tags:
 - presentation
 categories: []
 date: '2017-08-01'
-lastmod: 2022-02-24T14:11:35+01:00
+lastmod: 2023-09-26T19:45:50+02:00
 featured: false
 draft: false
 
@@ -33,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-24T13:11:34.912589Z'
+publishDate: '2023-09-26T17:45:49.976866Z'
 publication_types:
 - '0'
 abstract: ''

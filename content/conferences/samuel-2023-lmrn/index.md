@@ -12,12 +12,12 @@ authors:
 - Frans M. Vos
 - Dirk J. Grünhagen
 - Cornelis Verhoef
-- Martijn P.A. Starmans
+- M P.A. Starmans
 tags:
 - abstract
 categories: []
 date: '2023-01-01'
-lastmod: 2023-09-26T19:45:44+02:00
+lastmod: 2025-03-14T08:28:21+01:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-09-26T17:45:43.736810Z'
+publishDate: '2025-03-14T07:28:17.287509Z'
 publication_types:
 - '1'
 abstract: ''

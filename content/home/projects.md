@@ -53,4 +53,4 @@ design:
   flip_alt_rows: false
 ---
 
-We work on various clinical applications with different clinicians, and thus also various technical solutions within medical image analysis & AI. Hence, there are usually too many projects to describe here: Currently, we do not have any predefined projects available, but feel free to contact me for more information if you are interested in an internship / thesis! For an overview of some past projects, please see https://bigr.nl/open-projects/.
+We work on various clinical applications with different clinicians, and various technical solutions within medical image analysis & AI. The projects range from very technical hybrid, to more clinical. There are usually too many projects to describe here. Currently, we do not have any predefined projects available, we expect these to soon be put online, but we always have more than enough ideas, so feel free to contact me for more information if you are interested in an internship / thesis! For an overview of some past projects, please see https://bigr.nl/open-projects/.

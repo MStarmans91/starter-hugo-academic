@@ -6,7 +6,7 @@ title: Yin Tai Wang
 superuser: false
 
 # Role/position/tagline
-role: MSc Bioinformatics and System Biology, Vrije Universiteit (VU), Amsterdam, NL
+role: MSc Bioinformatics and System Biology, Vrije Universiteit (VU), Amsterdam, NL (2023 - 2024)
 
 # Title of project here
 interests:
@@ -18,5 +18,5 @@ highlight_name: false
 # For sorting
 date: '2023-09-01'
 
-user_groups: ["Current Team Members"]
+user_groups: ["MSc Thesis"]
 ---

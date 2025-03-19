@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: MULTI-CENTER EXTERNAL VALIDATION OF A RADIOMICS MODEL DIFFERENTIATING BETWEEN
-  ALT AND LIPOMA USING AUTOMATIC AND MINIMALLY INTERACTIVE SEGMENTATION METHODS
+title: Multi-Center External Validation of a Radiomics Model Differentiating Between
+  ALT and Lipoma Using Automatic and Minimally Interactive Segmentation Methods
 subtitle: ''
 summary: ''
 authors:
@@ -20,12 +20,12 @@ authors:
 - Stefan Klein
 - Dirk J Grünhagen
 - Cornelis Verhoef
-- Martijn P A Starmans
+- M P A Starmans
 tags:
 - abstract
 categories: []
 date: '2023-01-01'
-lastmod: 2023-09-26T19:45:41+02:00
+lastmod: 2025-03-14T08:28:06+01:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-09-26T17:45:40.903258Z'
+publishDate: '2025-03-14T07:28:01.467660Z'
 publication_types:
 - '1'
 abstract: ''

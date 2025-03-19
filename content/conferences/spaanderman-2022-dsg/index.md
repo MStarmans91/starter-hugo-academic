@@ -13,12 +13,12 @@ authors:
 - Jacob J Visser
 - Wiro J. Niessen
 - Dirk J Grünhagen
-- admin
+- M P A Starmans
 tags:
 - abstract
 categories: []
 date: '2022-01-01'
-lastmod: 2022-12-10T14:56:15+01:00
+lastmod: 2025-03-14T08:28:55+01:00
 featured: false
 draft: false
 
@@ -36,11 +36,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-10T13:56:14.600834Z'
+publishDate: '2025-03-14T07:28:48.794319Z'
 publication_types:
-- '9'
+- '1'
 abstract: ''
-publication: '*Dutch Sarcoma and GIST Group Symposium*'
+publication: '*Dutch Sarcoma Group (DSG) Annual Meeting*'
 links:
 - name: URL
   url: https://www.dutchsarcomagroup.nl/

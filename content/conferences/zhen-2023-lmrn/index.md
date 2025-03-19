@@ -11,7 +11,7 @@ authors:
 - David Tellez
 - Zhen Qian
 - Pieter M.H. Nierop
-- Martijn P. A. Starmans
+- M. P. A. Starmans
 - Iris D. Nagtegaal
 - Michail Doukas
 - Johannes H.W. de Wilt
@@ -24,7 +24,7 @@ tags:
 - abstract
 categories: []
 date: '2023-01-01'
-lastmod: 2023-09-26T19:45:43+02:00
+lastmod: 2025-03-14T08:28:17+01:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-09-26T17:45:43.045914Z'
+publishDate: '2025-03-14T07:28:13.525614Z'
 publication_types:
 - '1'
 abstract: ''

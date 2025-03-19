@@ -26,6 +26,7 @@ content:
     - BSc Thesis
     - BSc Internship
     - PhD Student
+    - PostDoc
 
 
 design:

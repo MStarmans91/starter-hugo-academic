@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Douwe J Spaanderman
-- admin
+- M P A Starmans
 - Anne-Rose W Schut
 - Geert J L H van Leenders
 - Cornelis Verhoef
@@ -19,7 +19,7 @@ tags:
 - abstract
 categories: []
 date: '2022-01-01'
-lastmod: 2022-12-10T14:56:15+01:00
+lastmod: 2025-03-14T08:29:00+01:00
 featured: false
 draft: false
 
@@ -37,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-10T13:56:15.317797Z'
+publishDate: '2025-03-14T07:28:55.836950Z'
 publication_types:
-- '9'
+- '0'
 abstract: ''
 publication: '*Biomedical Sciences PhD Day Erasmus MC*'
 ---

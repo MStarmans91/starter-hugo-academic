@@ -6,21 +6,21 @@ title: Does size matter? Response of melanoma brain metastases to immune checkpo
 subtitle: ''
 summary: ''
 authors:
-- S.H.A.E. Derks
-- L.S. Ho
+- S. H. A. E. Derks
+- L. S. Ho
 - S.R. Koene
-- M.P.A. Starmans
+- M. P. A. Starmans
 - A. Joosse
-- M.J.A. de Jonge
-- J.L.M. Jongen
-- M.J. van den Bent
+- M. J. A. de Jonge
+- J. L. M. Jongen
+- M. J. van den Bent
 - M. Smits
-- A.A.M. van der Veldt
+- A. A. M. van der Veldt
 tags:
 - abstract
 categories: []
 date: '2023-01-01'
-lastmod: 2023-09-26T19:45:40+02:00
+lastmod: 2025-03-14T08:28:01+01:00
 featured: false
 draft: false
 
@@ -38,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-09-26T17:45:40.277738Z'
+publishDate: '2025-03-14T07:27:58.335660Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*BRAIN METASTASES RESEARCH AND EMERGING THERAPY CONFERENCE, Paris, France*'
+publication: '*Brain Metastases Research and Emerging Therapy Conference, Paris, France*'
 ---

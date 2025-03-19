@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Erik Kemper
+title: Erik H. M. Kemper
 
 # Is this the primary user of the site?
 superuser: false

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Douwe J Spaanderman
-- Martijn P A Starmans
+- M P A Starmans
 - Gonnie C M van Erp
 - David F Hanff
 - Judith Sluiter
@@ -21,7 +21,7 @@ tags:
 - abstract
 categories: []
 date: '2023-01-01'
-lastmod: 2023-09-26T19:45:42+02:00
+lastmod: 2025-03-14T08:28:10+01:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-09-26T17:45:41.554129Z'
+publishDate: '2025-03-14T07:28:06.955049Z'
 publication_types:
 - '1'
 abstract: ''
