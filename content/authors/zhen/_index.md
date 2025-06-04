@@ -9,6 +9,7 @@ superuser: false
 role: PhD Student, Erasmus MC Surgery Department, Rotterdam, NL
 
 # Title of project here
+bio: "Automatic quantification of histopathological grwoth patterns of colorectal liver metastases on histopathology using AI."
 interests:
 - "Automatic quantification of histopathological grwoth patterns of colorectal liver metastases on histopathology using AI."
 

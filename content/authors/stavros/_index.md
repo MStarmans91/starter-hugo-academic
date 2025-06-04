@@ -1,16 +1,17 @@
 ---
 # Display name
-title: Natalia Oviedo Acosta
+title: Stavros Makrodimitris
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: PhD Student, Erasmus MC, Rotterdam, NL
+role: PostDoc, Erasmus MC, Rotterdam, NL
 
 # Title of project here
+bio: "Combined Liquid Biopsies and Imaging Biomarkers for Colorectal Cancer through Artificial Intelligence"
 interests:
-- "Automated pan-caner method design in medical image classification for oncology exploiting AutoMl and meta-learning."
+- "Combined Liquid Biopsies and Imaging Biomarkers for Colorectal Cancer through Artificial Intelligence"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

@@ -9,6 +9,7 @@ superuser: false
 role: PostDoc, Erasmus MC, Rotterdam, NL
 
 # Title of project here
+bio: "Multimodal machine learning methods for integrated diagnostics combining radiology and pathology"
 interests:
 - "Multimodal machine learning methods for integrated diagnostics combining radiology and pathology"
 

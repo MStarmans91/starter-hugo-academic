@@ -9,6 +9,7 @@ superuser: false
 role: PhD Student, Erasmus MC, Rotterdam, NL
 
 # Title of project here
+bio: Automatic grading and phenotyping of soft-tissue tumors through machine learning to guide personalized cancer treatment
 interests:
 - "Automatic grading and phenotyping of soft-tissue tumors through machine learning to guide personalized cancer treatment"
 

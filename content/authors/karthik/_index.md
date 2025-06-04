@@ -9,6 +9,7 @@ superuser: false
 role: PhD Student, Erasmus MC, Rotterdam, NL
 
 # Title of project here
+bio: "Automatic grading and phenotyping of soft-tissue tumors on digital pathology using AI"
 interests:
 - "Automatic grading and phenotyping of soft-tissue tumors on digital pathology using AI"
 

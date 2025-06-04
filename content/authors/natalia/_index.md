@@ -6,17 +6,18 @@ title: Natalia Oviedo Acosta
 superuser: false
 
 # Role/position/tagline
-role: MSc Bioinformatics and System Biology, Vrije Universiteit (VU), Amsterdam, NL (2023 - 2024)
+role: PhD Student, Erasmus MC, Rotterdam, NL
 
 # Title of project here
+bio: "Automated pan-caner method design in medical image classification for oncology exploiting AutoMl and meta-learning."
 interests:
-- "Adaptive deep learning in oncology classification through automated machine learning (AutoML)."
+- "Automated pan-caner method design in medical image classification for oncology exploiting AutoMl and meta-learning."
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # For sorting
-date: '2023-09-01'
+date: '2024-10-01'
 
-user_groups: ["MSc Thesis"]
+user_groups: ["Current Team Members"]
 ---

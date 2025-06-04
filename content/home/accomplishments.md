@@ -45,7 +45,7 @@ item:
 
   organization: Erasmus Medical Center
   organization_url: 'https://www.erasmusmc.nl/en/'
-  title: Research Grant
+  title: ErasSupport Grant
   url: "https://www.linkedin.com/posts/technology-transfer-office-tto-%E2%80%93-erasmus-mc_technology-transfer-office-tto-erasmus-activity-7273292860202930176-k_O0/"
 - certificate_url:
   date_end: ""
@@ -57,7 +57,7 @@ item:
 
   organization: Erasmus Medical Center
   organization_url: 'https://www.erasmusmc.nl/en/'
-  title: Research Grant
+  title: ErasSupport Grant
   url: "https://www.linkedin.com/posts/technology-transfer-office-tto-%E2%80%93-erasmus-mc_technology-transfer-office-tto-erasmus-activity-7273292860202930176-k_O0/"
 - certificate_url:
   date_end: ""
@@ -69,7 +69,7 @@ item:
 
   organization: Erasmus Medical Center
   organization_url: 'https://www.erasmusmc.nl/en/'
-  title: Personal Grant
+  title: Starting and Incentive Grant
   url: ""
 - certificate_url:
   date_end: ""
@@ -140,7 +140,7 @@ item:
   organization: Convergence Health & Technology
   organization_url: https://convergence.nl/health-technology
   title: Open Research Award
-  url: "https://www.riotsciencenl.com/award-winners"
+  url: "https://www.openscience-rotterdam.com/2021/11/30/2021-convergence-or-awards-winners/"
 - certificate_url:
   date_end: ""
   date_start: "2020-01-01"

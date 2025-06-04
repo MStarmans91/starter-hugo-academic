@@ -9,6 +9,7 @@ superuser: false
 role: PhD Student, Erasmus MC, Rotterdam, NL
 
 # Title of project here
+bio: "Trustworthy AI for improved diagnosis of bone and soft-tissue lesions on MRI"
 interests:
 - "Trustworthy AI for improved diagnosis of bone and soft-tissue lesions on MRI"
 

@@ -9,6 +9,7 @@ superuser: false
 role: PhD Student, Erasmus MC, Rotterdam, NL
 
 # Title of project here
+bio: An artificial intelligence (AI)-based model for detection of incidental pulmonary embolism in chest CTs
 interests:
 - "An artificial intelligence (AI)-based model for detection of incidental pulmonary embolism in chest CTs"
 

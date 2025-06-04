@@ -9,6 +9,7 @@ superuser: false
 role: PhD Student, Leeds Biomedical Research Centre, UK, and Erasmus MC, Rotterdam, NL
 
 # Title of project here
+bio: "Evaluating the added value of quantitative MRI in automatic grading and phenotyping of soft-tissue tumors using AI"
 interests:
 - "Evaluating the added value of quantitative MRI in automatic grading and phenotyping of soft-tissue tumors using AI"
 

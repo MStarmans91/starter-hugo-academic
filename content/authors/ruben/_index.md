@@ -9,6 +9,7 @@ superuser: false
 role: PhD Student, Erasmus MC, Rotterdam, NL
 
 # Title of project here
+bio: "The Liver Artificial Intelligence (LAI) consortium: a benchmark dataset and optimized machine learning methods for MRI-based diagnosis of solid appearing liver lesions"
 interests:
 - "The Liver Artificial Intelligence (LAI) consortium: a benchmark dataset and optimized machine learning methods for MRI-based diagnosis of solid appearing liver lesions"
 
