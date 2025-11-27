@@ -6,7 +6,7 @@ title: Stavros Makrodimitris
 superuser: false
 
 # Role/position/tagline
-role: PostDoc, Erasmus MC, Rotterdam, NL
+role: PostDoc, Erasmus MC, Rotterdam, NL   (2024 - 2025)
 
 # Title of project here
 bio: "Combined Liquid Biopsies and Imaging Biomarkers for Colorectal Cancer through Artificial Intelligence"
@@ -19,5 +19,5 @@ highlight_name: false
 # For sorting
 date: '2024-10-01'
 
-user_groups: ["Current Team Members"]
+user_groups: ["PostDoc"]
 ---

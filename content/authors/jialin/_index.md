@@ -6,7 +6,7 @@ title: Jialin Song
 superuser: false
 
 # Role/position/tagline
-role: MSc Biomedical Engineering, Delft University of Technology, Delft, NL
+role: MSc Biomedical Engineering, Delft University of Technology, Delft, NL   (2024 - 2025)
 
 # Title of project here
 interests:
@@ -18,5 +18,5 @@ highlight_name: false
 # For sorting
 date: '2024-09-01'
 
-user_groups: ["Current Team Members"]
+user_groups: ["MSc Thesis"]
 ---
